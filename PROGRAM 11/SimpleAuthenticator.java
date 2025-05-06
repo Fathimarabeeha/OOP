@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Base custom exception
+// Base custom exception 
 class AuthenticationException extends Exception {
 public AuthenticationException(String message) {
 super(message);
